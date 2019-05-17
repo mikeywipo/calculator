@@ -1,0 +1,33 @@
+html{
+  width: 100%;
+  background-color: #5077b1;
+}
+.title{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 30px;
+}
+#code{
+  width:134px;
+}
+.digit{
+  margin: 3px 3px;
+  height: 25px;
+  width: 25px;
+}
+.oper{
+  margin: 3px 3px;
+  height: 25px;
+  width: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
